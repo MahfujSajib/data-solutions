@@ -1,0 +1,8 @@
+.cardstyle:hover {
+    background-color: #F0F0F0;
+}
+
+img:hover {
+    transition: transform .2s;
+    transform: scale(1.015)
+}

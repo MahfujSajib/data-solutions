@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Agriculture",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAraYJtLMi3esIhb4bL9epY5qSYz3O914fg&usqp.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Education",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz30uGxq6Z401FBQbSxoArVTcpG1EUAqMlHw&usqp.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Energy",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEGrLLYc8TiccXJvbzttqkMwlOoG2X7Av7Q&usqp.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Engineering",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6xJru925hxaaWgLq4ZsmAhaDATCZ8A_qUQ&usqp.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Financial Service",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOu-eAIOB0oyv0Sl5COPcMEIngrfJ96GmKWA&usqp.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Healthcare",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL6amaG20CQ9BIXNYPbMEkDb1Y4puMVuVgA&usqp.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Media",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVj-Ot7DYJlvTdf5FamWR1GjZg09O4RApXDw&usqp.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tourism",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pJMex8DCQQ_qfK8VUGFYhmrOG6CAqi15xQ&usqp.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Public Sector",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB9nA5djNgYKboCAqBWR0UuGhVmKfGxkjyg&usqp.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Logistics",
+        "description": "Harvest the benefits of modern technologies and grow your business.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKc9lzOBJmpdFzxrZErwXc3Yxb26RkR_pxQ&usqp.jpg"
+    }
+]
